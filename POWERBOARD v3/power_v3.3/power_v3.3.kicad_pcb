@@ -7908,9 +7908,9 @@
 			(drill 1.85)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "unconnected-(S1-NC-Pad1)")
+			(net "GND")
 			(pinfunction "NC_1")
-			(pintype "no_connect")
+			(pintype "passive")
 			(uuid "4f10fa92-1bbe-4b26-8cc0-e32324defa1b")
 		)
 		(pad "2" thru_hole circle
@@ -14823,6 +14823,15 @@
 		(uuid "f91a6eeb-b51b-4576-a95e-0defa1bee52d")
 	)
 	(via
+		(at 160.87 80.82)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net "GND")
+		(uuid "0a9feaf4-d088-4d01-89ae-4df11d3c5e59")
+	)
+	(via
 		(at 156.2 93)
 		(size 0.6)
 		(drill 0.3)
@@ -15163,6 +15172,14 @@
 		(uuid "360c4f97-446f-4617-8314-594ae5d1a1b2")
 	)
 	(segment
+		(start 160.944 80.746)
+		(end 163.4795 80.746)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "GND")
+		(uuid "3c1fcd5a-57fb-401f-be56-d1ee3fe8600d")
+	)
+	(segment
 		(start 161.36 92.93)
 		(end 162.5725 92.93)
 		(width 0.2)
@@ -15233,6 +15250,14 @@
 		(layer "B.Cu")
 		(net "GND")
 		(uuid "acb72f1d-a158-4586-bb3a-142eac55f968")
+	)
+	(segment
+		(start 160.87 80.82)
+		(end 160.944 80.746)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "GND")
+		(uuid "bc07c8ae-8fd1-4a2e-925f-f8330b0f590f")
 	)
 	(segment
 		(start 154.6 92.4)

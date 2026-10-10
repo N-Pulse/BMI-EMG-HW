@@ -3326,6 +3326,12 @@
 		(uuid "4809bece-c211-4ff3-aae7-aa3e2525a87c")
 	)
 	(junction
+		(at 71.12 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4d62463e-ba13-4cb8-84a4-59984db40c3e")
+	)
+	(junction
 		(at 54.61 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3775,7 +3781,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 110.49) (xy 78.74 110.49)
+			(xy 49.53 110.49) (xy 71.12 110.49)
 		)
 		(stroke
 			(width 0)
@@ -3882,6 +3888,16 @@
 			(type default)
 		)
 		(uuid "67333a53-9900-4916-9fce-61eca79aa031")
+	)
+	(wire
+		(pts
+			(xy 71.12 110.49) (xy 78.74 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68921a12-63be-4e8d-8493-092f93c37e47")
 	)
 	(wire
 		(pts
@@ -6755,6 +6771,84 @@
 			(project "power_v3.3"
 				(path "/432bcdcf-747a-4fa0-b87b-096f44260199/ef6b3a2b-31e3-4ffb-9457-e6034dbdb4b5"
 					(reference "#PWR027")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 71.12 110.49 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a0c2d901-e37d-4f8d-8d40-53fe09180101")
+		(property "Reference" "#FLG01"
+			(at 71.12 112.395 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 71.12 115.57 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 71.12 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 71.12 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 71.12 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "397446fc-2cd2-451f-b9cd-0097129b8ff8")
+		)
+		(instances
+			(project "power_v3.3"
+				(path "/432bcdcf-747a-4fa0-b87b-096f44260199/ef6b3a2b-31e3-4ffb-9457-e6034dbdb4b5"
+					(reference "#FLG01")
 					(unit 1)
 				)
 			)
