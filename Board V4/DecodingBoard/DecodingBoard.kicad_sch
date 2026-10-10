@@ -9874,7 +9874,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2053380004"
+		(property "Value" "2053380002"
 			(at 55.626 169.164 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9897,7 +9897,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.molex.com/en-us/products/part-detail-pdf/2053380004?display=pdf"
+		(property "Datasheet" "https://www.molex.com/en-us/products/part-detail-pdf/2053380002?display=pdf"
 			(at 55.88 182.88 0)
 			(hide yes)
 			(show_name no)

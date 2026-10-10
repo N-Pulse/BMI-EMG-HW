@@ -21411,7 +21411,7 @@
 		(net "GND")
 		(layer "F.Cu")
 		(uuid "211c640c-62c6-4d7f-a388-f534bd25a20b")
-		(hatch full 0.5)
+		(hatch edge 0.5)
 		(priority 1)
 		(connect_pads
 			(clearance 0.3)

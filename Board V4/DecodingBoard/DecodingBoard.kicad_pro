@@ -50,7 +50,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "border_display_style": 1,
+          "border_display_style": 2,
           "border_hatch_pitch": 0.5,
           "corner_radius": 0.5,
           "corner_smoothing": 2,
@@ -477,9 +477,9 @@
       "endpoint_off_grid": "warning",
       "extra_units": "error",
       "field_name_whitespace": "warning",
-      "footprint_filter": "ignore",
+      "footprint_filter": "warning",
       "footprint_link_issues": "warning",
-      "four_way_junction": "ignore",
+      "four_way_junction": "warning",
       "ground_pin_not_ground": "warning",
       "hier_label_mismatch": "error",
       "isolated_pin_label": "warning",
@@ -497,14 +497,14 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
       "similar_labels": "warning",
       "similar_power": "warning",
-      "simulation_model_issue": "ignore",
-      "single_global_label": "ignore",
+      "simulation_model_issue": "warning",
+      "single_global_label": "warning",
       "stacked_pin_name": "warning",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
@@ -885,7 +885,7 @@
         "uuid": "b438bce8-ca67-4245-91ae-f4475acc63f6"
       }
     ],
-    "used_designators": "U1-4,#FLG1-5,R1-19,IC1-4,J1-8,J11,L1-4,#PWR1-53,C1-31,CBUS1,FL1,D1-2,D6,XTAL1,H1-6,SW1-2,ANT1,TP1",
+    "used_designators": "#FLG1-5,CBUS1,R1-19,H1-6,IC1-4,J1-8,J11,L1-4,U1-4,SW1-2,C1-31,FL1,XTAL1,ANT1,D1-2,D6,#PWR1-53,TP1",
     "variants": []
   },
   "sheets": [

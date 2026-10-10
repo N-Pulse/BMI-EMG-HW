@@ -1,0 +1,7 @@
+
+.DS_Store
+*.lck
+
+.*history
+
+Board V4/DecodingBoard/~DecodingBoard.kicad_pro.lck
