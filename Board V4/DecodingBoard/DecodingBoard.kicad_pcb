@@ -10016,7 +10016,7 @@
 				)
 			)
 		)
-		(property "Value" "5037630691"
+		(property "Value" "5037630491"
 			(at 0 2.4343 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10028,7 +10028,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.molex.com/en-us/products/part-detail-pdf/5037630691?display=pdf"
+		(property "Datasheet" "https://www.molex.com/en-us/products/part-detail/5037630491"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10461,7 +10461,7 @@
 				)
 			)
 		)
-		(property "Value" "2053380004"
+		(property "Value" "2053380002"
 			(at 0 3.727702 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10473,7 +10473,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.molex.com/en-us/products/part-detail-pdf/2053380004?display=pdf"
+		(property "Datasheet" "https://www.molex.com/en-us/products/part-detail-pdf/2053380002?display=pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -22899,7 +22899,7 @@
 		(net "GND")
 		(layer "B.Cu")
 		(uuid "017ef803-2ba6-4656-b85b-91366ac3b352")
-		(hatch full 0.5)
+		(hatch edge 0.5)
 		(priority 2)
 		(connect_pads
 			(clearance 0.3)

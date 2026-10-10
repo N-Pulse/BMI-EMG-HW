@@ -1744,7 +1744,7 @@
 				)
 			)
 		)
-		(property "Value" "5037630691"
+		(property "Value" "5037630491"
 			(at 29.21 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1766,7 +1766,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.molex.com/en-us/products/part-detail-pdf/5037630691?display=pdf"
+		(property "Datasheet" "https://www.molex.com/en-us/products/part-detail/5037630491"
 			(at 38.1 46.99 0)
 			(hide yes)
 			(show_name no)
