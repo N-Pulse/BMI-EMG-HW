@@ -3284,12 +3284,6 @@
 		(uuid "0878e873-947c-4c56-af52-9b023efa1b31")
 	)
 	(junction
-		(at 209.55 46.99)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0aa525af-053d-40f4-a097-33570ae1ae3e")
-	)
-	(junction
 		(at 231.14 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3698,16 +3692,6 @@
 			(type default)
 		)
 		(uuid "3a895021-5ca2-42e7-a864-37f1ff3151fa")
-	)
-	(wire
-		(pts
-			(xy 209.55 46.99) (xy 217.17 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "409de7e3-3019-4c9e-af23-9848efc2b508")
 	)
 	(wire
 		(pts
@@ -4942,30 +4926,6 @@
 		(uuid "88f87cfa-5309-40ee-932f-ca2921cea5f4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 208.3623 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "NTC"
-		(shape bidirectional)
-		(at 217.17 46.99 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "9095d44b-f56e-4937-bbc3-effbcbc1e54f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 224.8346 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
