@@ -960,6 +960,225 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:D_TVS_Dual_AAC"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "D"
+				(at 0 4.445 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "D_TVS_Dual_AAC"
+				(at 0 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at -3.81 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at -3.81 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Bidirectional dual transient-voltage-suppression diode, center on pin 3"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "diode TVS thyrector"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "D_TVS_Dual_AAC_0_0"
+				(polyline
+					(pts
+						(xy 0 -1.27) (xy 0 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "D_TVS_Dual_AAC_0_1"
+				(polyline
+					(pts
+						(xy -6.35 1.27) (xy -1.27 -1.27) (xy -1.27 1.27) (xy -6.35 -1.27) (xy -6.35 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -6.35 0) (xy 6.35 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.302 1.27) (xy -3.81 1.27) (xy -3.81 -1.27) (xy -4.318 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 0)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.318 1.27) (xy 3.81 1.27) (xy 3.81 -1.27) (xy 3.302 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 1.27) (xy 1.27 -1.27) (xy 1.27 1.27) (xy 6.35 -1.27) (xy 6.35 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "D_TVS_Dual_AAC_1_1"
+				(pin passive line
+					(at -8.89 0 0)
+					(length 2.54)
+					(name "A1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 8.89 0 180)
+					(length 2.54)
+					(name "A2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 2.54)
+					(name "common"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:D_Zener"
 			(pin_numbers
 				(hide yes)
@@ -2677,6 +2896,12 @@
 		(uuid "611eada2-dc07-44c4-a1ef-d9b149e4a8f3")
 	)
 	(junction
+		(at 95.25 57.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "65d4359e-8aa8-4385-92d2-bdb24a0709c1")
+	)
+	(junction
 		(at 205.74 57.15)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2705,12 +2930,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9ae4d43f-551e-495b-bbd4-0e1b53c2df84")
-	)
-	(junction
-		(at 99.06 57.15)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9f242f88-ecf8-4ed2-aa87-5ce204cea36f")
 	)
 	(junction
 		(at 138.43 82.55)
@@ -2771,6 +2990,10 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f321f94a-babc-4ebc-be7d-9d48c8c19c3f")
+	)
+	(no_connect
+		(at 114.3 71.12)
+		(uuid "8477968e-adf7-4897-8fe4-691a2141c6d7")
 	)
 	(no_connect
 		(at 72.39 134.62)
@@ -3002,6 +3225,16 @@
 	)
 	(wire
 		(pts
+			(xy 105.41 74.93) (xy 105.41 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39c28d6e-cde1-498e-9617-5c823d6b1a95")
+	)
+	(wire
+		(pts
 			(xy 228.6 116.84) (xy 240.03 116.84)
 		)
 		(stroke
@@ -3042,16 +3275,6 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 72.39) (xy 99.06 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "52bfe759-cf91-4f0b-8628-86f74867c2f1")
-	)
-	(wire
-		(pts
 			(xy 124.46 116.84) (xy 124.46 123.19)
 		)
 		(stroke
@@ -3079,16 +3302,6 @@
 			(type default)
 		)
 		(uuid "5fc642c6-3bc4-44f9-9cb8-8cc8d6df3847")
-	)
-	(wire
-		(pts
-			(xy 99.06 82.55) (xy 138.43 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "60224756-a8e6-4cf7-b6ba-d7a419819e34")
 	)
 	(wire
 		(pts
@@ -3272,6 +3485,16 @@
 	)
 	(wire
 		(pts
+			(xy 95.25 57.15) (xy 95.25 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89a63790-c409-4d69-bf3a-f82b46ef8d6c")
+	)
+	(wire
+		(pts
 			(xy 179.07 152.4) (xy 189.23 152.4)
 		)
 		(stroke
@@ -3339,6 +3562,16 @@
 			(type default)
 		)
 		(uuid "960e47eb-bf63-444b-a6c9-29236078b689")
+	)
+	(wire
+		(pts
+			(xy 105.41 82.55) (xy 138.43 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b08af36-5426-48e1-876d-1da511d7824d")
 	)
 	(wire
 		(pts
@@ -3522,16 +3755,6 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 57.15) (xy 99.06 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c773e379-5995-435b-afb4-b1d37bbc18a2")
-	)
-	(wire
-		(pts
 			(xy 44.45 116.84) (xy 44.45 152.4)
 		)
 		(stroke
@@ -3572,17 +3795,17 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 57.15) (xy 99.06 64.77)
+			(xy 95.25 71.12) (xy 96.52 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cf1a1996-d12e-4ca4-b818-c543a63d7e2c")
+		(uuid "d30672ff-84ae-4197-b1ae-e8c3482e0864")
 	)
 	(wire
 		(pts
-			(xy 99.06 57.15) (xy 120.65 57.15)
+			(xy 93.98 57.15) (xy 95.25 57.15)
 		)
 		(stroke
 			(width 0)
@@ -3629,6 +3852,16 @@
 			(type default)
 		)
 		(uuid "ec42d159-7575-45a6-ad17-d5c23454028f")
+	)
+	(wire
+		(pts
+			(xy 95.25 57.15) (xy 120.65 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f146c444-565d-45d4-86e0-2116b4bc2d25")
 	)
 	(wire
 		(pts
@@ -4589,88 +4822,6 @@
 			(project "power_v3.3"
 				(path "/432bcdcf-747a-4fa0-b87b-096f44260199/9585df76-13b3-4fa5-b448-53940051778a"
 					(reference "J3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Zener")
-		(at 99.06 68.58 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5d12bf60-d935-4b16-9220-1080e4cda784")
-		(property "Reference" "D3"
-			(at 101.6 67.3099 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SOD323"
-			(at 101.6 69.8499 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 99.06 68.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/esds452-q1.pdf?ts=1791562944169&ref_url=https%253A%252F%252Fwww.mouser.ch%252F"
-			(at 99.06 68.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Zener diode"
-			(at 99.06 68.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d93aff4b-d9e1-4a25-81d8-efdb09b9349e")
-		)
-		(pin "2"
-			(uuid "5226f53f-7e21-4e3f-bb85-13dd042db599")
-		)
-		(instances
-			(project "power_v3.3"
-				(path "/432bcdcf-747a-4fa0-b87b-096f44260199/9585df76-13b3-4fa5-b448-53940051778a"
-					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -6442,6 +6593,91 @@
 			(project "power_v3.3"
 				(path "/432bcdcf-747a-4fa0-b87b-096f44260199/9585df76-13b3-4fa5-b448-53940051778a"
 					(reference "C16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_TVS_Dual_AAC")
+		(at 105.41 71.12 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f96d95ca-60a6-40ae-b21b-373ce3037a2b")
+		(property "Reference" "D3"
+			(at 105.41 67.31 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SOD323"
+			(at 104.1401 68.58 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 101.6 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/esds452-q1.pdf?ts=1791562944169&ref_url=https%253A%252F%252Fwww.mouser.ch%252F"
+			(at 101.6 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Bidirectional dual transient-voltage-suppression diode, center on pin 3"
+			(at 105.41 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "fd529c51-c280-4b9a-9e27-ad3b887fe058")
+		)
+		(pin "3"
+			(uuid "a24731fb-20b5-4cd0-9a4f-322cb3e83796")
+		)
+		(pin "2"
+			(uuid "6a124c60-68c5-4859-8f84-8c91afe060c8")
+		)
+		(instances
+			(project "power_v3.3"
+				(path "/432bcdcf-747a-4fa0-b87b-096f44260199/9585df76-13b3-4fa5-b448-53940051778a"
+					(reference "D3")
 					(unit 1)
 				)
 			)
