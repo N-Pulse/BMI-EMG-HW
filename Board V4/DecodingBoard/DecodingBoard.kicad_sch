@@ -652,8 +652,8 @@
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "J"
-				(at 8.89 6.35 0)
+			(property "Reference" "J6"
+				(at 8.89 -20.32 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -662,8 +662,8 @@
 					)
 				)
 			)
-			(property "Value" "5040500691"
-				(at 0 0 0)
+			(property "Value" "5037630391"
+				(at 8.89 -17.78 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -672,7 +672,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CONN_5040500691_MOL"
+			(property "Footprint" "Footprints:5037630391"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -685,7 +685,7 @@
 				)
 			)
 			(property "Datasheet" "https://www.molex.com/en-us/products/part-detail-pdf/5040500691?display=pdf"
-				(at 0 0 0)
+				(at 2.286 5.334 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -697,6 +697,28 @@
 				)
 			)
 			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Added to order" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Customer PN" ""
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -742,7 +764,7 @@
 			(symbol "5040500691_1_1"
 				(polyline
 					(pts
-						(xy 5.08 2.54) (xy 5.08 -15.24)
+						(xy 5.08 2.54) (xy 5.08 -11.43)
 					)
 					(stroke
 						(width 0.127)
@@ -754,7 +776,7 @@
 				)
 				(polyline
 					(pts
-						(xy 5.08 -15.24) (xy 12.7 -15.24)
+						(xy 5.08 -11.43) (xy 12.7 -11.43)
 					)
 					(stroke
 						(width 0.127)
@@ -946,42 +968,6 @@
 				)
 				(polyline
 					(pts
-						(xy 10.16 -12.7) (xy 5.08 -12.7)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 -12.7) (xy 8.89 -11.8533)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 -12.7) (xy 8.89 -13.5467)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
 						(xy 12.7 2.54) (xy 5.08 2.54)
 					)
 					(stroke
@@ -994,7 +980,7 @@
 				)
 				(polyline
 					(pts
-						(xy 12.7 -15.24) (xy 12.7 2.54)
+						(xy 12.7 -11.43) (xy 12.7 2.54)
 					)
 					(stroke
 						(width 0.127)
@@ -1087,24 +1073,6 @@
 						)
 					)
 					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 0 -12.7 0)
-					(length 5.08)
-					(name "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4970,12 +4938,6 @@
 		(uuid "2abd90b7-198e-49f3-9f53-9d40bb9a76df")
 	)
 	(junction
-		(at 41.91 74.93)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2b45df62-77fe-45b5-8015-4ff6e1ef3d00")
-	)
-	(junction
 		(at 129.54 146.05)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6115,16 +6077,6 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 72.39) (xy 41.91 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9385781f-01c2-4220-9d9e-52f7369ebc39")
-	)
-	(wire
-		(pts
 			(xy 165.1 144.78) (xy 165.1 156.21)
 		)
 		(stroke
@@ -6392,16 +6344,6 @@
 			(type default)
 		)
 		(uuid "bb083150-f075-4336-a39e-10f51cb8abe0")
-	)
-	(wire
-		(pts
-			(xy 39.37 72.39) (xy 41.91 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c085b543-3709-4aee-abbc-b621c81eca98")
 	)
 	(wire
 		(pts
@@ -7749,7 +7691,7 @@
 				)
 			)
 		)
-		(property "Value" "5040500691"
+		(property "Value" "5037630391"
 			(at 30.48 67.31 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7759,7 +7701,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Footprints:CONN_5040500491_MOL"
+		(property "Footprint" "Footprints:5037630391"
 			(at 39.37 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -7772,7 +7714,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.molex.com/en-us/products/part-detail-pdf/5040500691?display=pdf"
-			(at 39.37 85.09 0)
+			(at 37.084 90.424 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7821,9 +7763,6 @@
 		)
 		(pin "5"
 			(uuid "c0374223-4420-45ac-83f1-e21496dbc5a2")
-		)
-		(pin "6"
-			(uuid "626aee30-2aca-4e3b-9f1e-05fa20d78e93")
 		)
 		(pin "4"
 			(uuid "725d921c-236d-4978-9444-724d3d1b54ef")
