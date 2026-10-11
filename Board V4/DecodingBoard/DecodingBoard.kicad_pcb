@@ -22905,8 +22905,6 @@
 		(fill
 			(thermal_gap 0.4)
 			(thermal_bridge_width 0.25)
-			(smoothing fillet)
-			(radius 0.5)
 			(island_removal_mode 0)
 		)
 		(polygon
@@ -22938,8 +22936,6 @@
 		(fill
 			(thermal_gap 0.4)
 			(thermal_bridge_width 0.25)
-			(smoothing fillet)
-			(radius 0.5)
 			(island_removal_mode 0)
 		)
 		(polygon

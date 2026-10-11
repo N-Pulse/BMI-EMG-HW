@@ -645,7 +645,7 @@
       "method": 0,
       "sort_order": 0
     },
-    "bom_export_filename": "..\\..\\commande_emg\\main_board\\Processing_board.csv",
+    "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -676,6 +676,18 @@
           "group_by": true,
           "label": "Value",
           "name": "Value",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Customer PN",
+          "name": "Customer PN",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Added to order",
+          "name": "Added to order",
           "show": true
         },
         {
@@ -833,8 +845,8 @@
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",
-      "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_asc": false,
+      "sort_field": "Datasheet"
     },
     "bus_aliases": {},
     "connection_grid_size": 50.0,
@@ -885,7 +897,7 @@
         "uuid": "b438bce8-ca67-4245-91ae-f4475acc63f6"
       }
     ],
-    "used_designators": "#FLG1-5,CBUS1,R1-19,H1-6,IC1-4,J1-8,J11,L1-4,U1-4,SW1-2,C1-31,FL1,XTAL1,ANT1,D1-2,D6,#PWR1-53,TP1",
+    "used_designators": "#FLG1-5,CBUS1,IC1-4,H1-6,R1-19,L1-4,J1-8,J11,U1-5,SW1-2,C1-32,FL1,XTAL1,ANT1,D1-2,D6,#PWR1-55,TP1",
     "variants": []
   },
   "sheets": [
