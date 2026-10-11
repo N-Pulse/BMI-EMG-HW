@@ -169,15 +169,16 @@
         {
           "td_onpthpad": true,
           "td_onroundshapesonly": false,
-          "td_onsmdpad": true,
+          "td_onsmdpad": false,
           "td_ontrackend": false,
-          "td_onvia": true
+          "td_onvia": false
         }
       ],
       "teardrop_parameters": [
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 0,
+          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -189,6 +190,7 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 0,
+          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -200,6 +202,7 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 0,
+          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -482,6 +485,7 @@
       "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
+      "same_local_global_power": "warning",
       "similar_label_and_power": "warning",
       "similar_labels": "warning",
       "similar_power": "warning",
@@ -529,8 +533,8 @@
     "meta": {
       "version": 5
     },
-    "net_colors": null,
-    "netclass_assignments": null,
+    "net_colors": {},
+    "netclass_assignments": {},
     "netclass_patterns": []
   },
   "pcbnew": {
@@ -772,7 +776,7 @@
         "uuid": "432bcdcf-747a-4fa0-b87b-096f44260199"
       }
     ],
-    "used_designators": "J1-3,J5,U1-5,LDO5V1,C1-18,BZ1,R1-20,Cin1,H1-4,IC1-3,BUCK1IN1,#FLG1-5,TP10,5.3V1-2,L1-2,5V1-2,3.6V3,S1-2,CHAR/BATT1,GND1-2,Cout1,BAT1,#PWR1-2,#PWR10-32,D1-7,F1,SYS1-2",
+    "used_designators": "#FLG1-5,#PWR1-2,#PWR10-32,3.6V3,5.3V1-2,5V1-2,BAT1,BUCK1IN1,BZ1,C1-18,CHAR/BATT1,Cin1,Cout1,D1-7,F1,GND1-2,H1-4,IC1-3,J1-3,J5,L1-2,LDO5V1,R1-20,S1-2,SYS1-2,TP10,U1-5",
     "variants": []
   },
   "sheets": [

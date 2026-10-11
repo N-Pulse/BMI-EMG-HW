@@ -4003,6 +4003,16 @@
 		)
 		(uuid "4998ef64-dc22-49ca-a89e-e771d7f6a1fd")
 	)
+	(label "5V_out"
+		(at 255.27 62.23 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4c774b7f-a229-4836-8201-3091941ad953")
+	)
 	(label "BYP"
 		(at 39.37 49.53 90)
 		(effects
