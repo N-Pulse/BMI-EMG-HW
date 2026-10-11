@@ -2667,7 +2667,7 @@
 				)
 			)
 		)
-		(property "Added to order" "NA"
+		(property "Added to order" ""
 			(at 152.4 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -2678,7 +2678,7 @@
 				)
 			)
 		)
-		(property "Customer PN" "NA"
+		(property "Customer PN" "EMG-PWR-042"
 			(at 152.4 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -2976,7 +2976,7 @@
 				)
 			)
 		)
-		(property "Added to order" "NA"
+		(property "Added to order" ""
 			(at 54.61 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -2987,7 +2987,7 @@
 				)
 			)
 		)
-		(property "Customer PN" "NA"
+		(property "Customer PN" "EMG-PWR-042"
 			(at 54.61 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -3077,7 +3077,7 @@
 				)
 			)
 		)
-		(property "Added to order" "NA"
+		(property "Added to order" ""
 			(at 204.47 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -3088,7 +3088,7 @@
 				)
 			)
 		)
-		(property "Customer PN" "NA"
+		(property "Customer PN" "EMG-PWR-042"
 			(at 204.47 74.93 0)
 			(hide yes)
 			(show_name no)

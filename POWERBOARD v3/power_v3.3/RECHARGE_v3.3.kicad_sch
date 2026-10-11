@@ -8974,7 +8974,7 @@
 				)
 			)
 		)
-		(property "Added to order" "NA"
+		(property "Added to order" ""
 			(at 231.14 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -8985,7 +8985,7 @@
 				)
 			)
 		)
-		(property "Customer PN" "NA"
+		(property "Customer PN" "EMG-PWR-042"
 			(at 231.14 130.81 0)
 			(hide yes)
 			(show_name no)
