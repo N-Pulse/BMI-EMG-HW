@@ -899,29 +899,27 @@
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "IC"
-				(at 26.67 17.78 0)
+			(property "Reference" "U2"
+				(at 12.7 33.274 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
 				)
 			)
 			(property "Value" "TPS7A7200RGWT"
-				(at 26.67 15.24 0)
+				(at 13.208 30.988 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
 				)
 			)
-			(property "Footprint" "QFN65P500X500X100-21N-D"
+			(property "Footprint" "Footprints:QFN65P500X500X100-21N-D"
 				(at 26.67 -84.76 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1038,6 +1036,28 @@
 						(size 1.27 1.27)
 					)
 					(justify left top)
+				)
+			)
+			(property "Added to order" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Customer PN" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
 				)
 			)
 			(symbol "TPS7A7200RGWT_1_1"
@@ -1250,7 +1270,7 @@
 						)
 					)
 				)
-				(pin no_connect line
+				(pin passive line
 					(at 30.48 -7.62 180)
 					(length 5.08)
 					(name "NC"
