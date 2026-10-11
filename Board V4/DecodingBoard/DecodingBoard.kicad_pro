@@ -178,7 +178,6 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 0,
-          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -190,7 +189,6 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 0,
-          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -202,7 +200,6 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 0,
-          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -602,7 +599,7 @@
     "net_colors": {
       "GND": "rgb(72, 72, 72)"
     },
-    "netclass_assignments": {},
+    "netclass_assignments": null,
     "netclass_patterns": [
       {
         "netclass": "GND",
@@ -742,25 +739,25 @@
           "group_by": false,
           "label": "Height",
           "name": "Height",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "Manufacturer_Name",
           "name": "Manufacturer_Name",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "Manufacturer_Part_Number",
           "name": "Manufacturer_Part_Number",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "Mouser Part Number",
           "name": "Mouser Part Number",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -903,7 +900,7 @@
         "uuid": "b438bce8-ca67-4245-91ae-f4475acc63f6"
       }
     ],
-    "used_designators": "#FLG1-5,#PWR1-55,ANT1,C1-32,CBUS1,D1-2,D6,FL1,H1-6,IC1-4,J1-8,J11,L1-4,R1-19,SW1-2,TP1,U1-5,XTAL1",
+    "used_designators": "CBUS1,#FLG1-5,XTAL1,ANT1,U1-5,C1-32,SW1-2,#PWR1-55,D1-2,D6,FL1,R1-19,H1-6,L1-4,IC1-4,J1-8,J11,TP1",
     "variants": []
   },
   "sheets": [
