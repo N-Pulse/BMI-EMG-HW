@@ -5313,6 +5313,28 @@
 				)
 			)
 		)
+		(property "Added to order" "Y"
+			(at 59.69 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Customer PN" "EMG-PWR-037"
+			(at 59.69 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2d99573e-ea12-4f65-809d-04ffbd903b3f")
 		)
@@ -5463,6 +5485,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 106.68 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Added to order" "Y"
+			(at 106.68 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Customer PN" "EMG-PWR-029"
 			(at 106.68 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -5633,6 +5677,28 @@
 				)
 			)
 		)
+		(property "Added to order" "Y"
+			(at 129.54 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Customer PN" "EMG-PWR-040A"
+			(at 129.54 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0945f5d1-5eb0-43f2-828e-8ed12c9d9efc")
 		)
@@ -5775,6 +5841,28 @@
 				(justify left top)
 			)
 		)
+		(property "Added to order" "Y"
+			(at 49.53 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Customer PN" "EMG-PWR-005"
+			(at 49.53 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4f7127ab-81b6-4108-b4aa-f2aaaafb4221")
 		)
@@ -5860,6 +5948,28 @@
 				)
 			)
 		)
+		(property "Added to order" "Y"
+			(at 148.59 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Customer PN" "EMG-PWR-036"
+			(at 148.59 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c526b863-1845-404a-9f5e-c8c4ee2844a4")
 		)
@@ -5931,6 +6041,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 226.06 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Added to order" "Y"
+			(at 226.06 107.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Customer PN" "EMG-PWR-025"
+			(at 226.06 107.95 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6101,6 +6233,28 @@
 				)
 			)
 		)
+		(property "Added to order" "Y"
+			(at 101.6 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Customer PN" "EMG-PWR-028"
+			(at 101.6 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b8a52e6c-dad6-41d0-a8e2-490bb3b18771")
 		)
@@ -6183,6 +6337,28 @@
 				)
 			)
 		)
+		(property "Added to order" "Y"
+			(at 163.83 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Customer PN" "EMG-PWR-040B"
+			(at 163.83 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3d820493-f561-408b-94d6-a97789003199")
 		)
@@ -6255,6 +6431,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 195.58 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Added to order" "Y"
+			(at 195.58 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Customer PN" "EMG-PWR-026"
 			(at 195.58 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -6512,6 +6710,28 @@
 				)
 			)
 		)
+		(property "Added to order" "Y"
+			(at 213.36 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Customer PN" "EMG-PWR-033"
+			(at 213.36 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "510a9a72-38a3-4a06-92af-360ed329d120")
 		)
@@ -6639,6 +6859,28 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+			)
+		)
+		(property "Added to order" "Y"
+			(at 45.72 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Customer PN" "EMG-PWR-011"
+			(at 45.72 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "B5"
@@ -6921,6 +7163,28 @@
 				)
 			)
 		)
+		(property "Added to order" "Y"
+			(at 54.61 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Customer PN" "EMG-PWR-038"
+			(at 54.61 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8cc6f103-a377-4b54-8df1-2f75572d9a71")
 		)
@@ -6993,6 +7257,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 43.18 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Added to order" "Y"
+			(at 43.18 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Customer PN" "EMG-PWR-038"
 			(at 43.18 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -7085,6 +7371,28 @@
 				)
 			)
 		)
+		(property "Added to order" "Y"
+			(at 213.36 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Customer PN" "EMG-PWR-040B"
+			(at 213.36 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7a4e0225-0d71-4f74-9909-33393353fab5")
 		)
@@ -7157,6 +7465,28 @@
 			)
 		)
 		(property "Description" "DFE252012F"
+			(at 33.02 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Added to order" "Y"
+			(at 33.02 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Customer PN" "EMG-PWR-041"
 			(at 33.02 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -7406,6 +7736,28 @@
 				)
 			)
 		)
+		(property "Added to order" "Y"
+			(at 176.53 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Customer PN" "EMG-PWR-040B"
+			(at 176.53 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4319304c-dc70-417a-9761-d166f726f107")
 		)
@@ -7478,6 +7830,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 91.44 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Added to order" "Y"
+			(at 91.44 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Customer PN" "EMG-PWR-030"
 			(at 91.44 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -7570,6 +7944,28 @@
 				)
 			)
 		)
+		(property "Added to order" "Y"
+			(at 195.58 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Customer PN" "EMG-PWR-027"
+			(at 195.58 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ed869cf5-ddf3-4d74-b5b8-472d255c1373")
 		)
@@ -7642,6 +8038,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 81.28 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Added to order" "Y"
+			(at 81.28 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Customer PN" "EMG-PWR-031"
 			(at 81.28 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -7874,6 +8292,28 @@
 				(justify left bottom)
 			)
 		)
+		(property "Added to order" "Y"
+			(at 223.52 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Customer PN" "EMG-PWR-009"
+			(at 223.52 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b6749af7-827d-4f37-a023-40e844b3eefa")
 		)
@@ -8023,6 +8463,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 226.06 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Added to order" "Y"
+			(at 226.06 110.49 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Customer PN" "EMG-PWR-025"
+			(at 226.06 110.49 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8192,6 +8654,28 @@
 				)
 			)
 		)
+		(property "Added to order" "Y"
+			(at 44.45 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Customer PN" "EMG-PWR-040A"
+			(at 44.45 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "49a6333a-8baa-4fe9-ab99-2f1a8c0a406a")
 		)
@@ -8264,6 +8748,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 95.25 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Added to order" "Y"
+			(at 95.25 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Customer PN" "EMG-PWR-029"
 			(at 95.25 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -8364,6 +8870,28 @@
 				)
 			)
 		)
+		(property "Added to order" "Y"
+			(at 213.36 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Customer PN" "EMG-PWR-033"
+			(at 213.36 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0e1670bb-1e05-4e30-9aa6-ae3574c9094f")
 		)
@@ -8446,6 +8974,28 @@
 				)
 			)
 		)
+		(property "Added to order" "NA"
+			(at 231.14 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Customer PN" "NA"
+			(at 231.14 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "04e3f91d-8aba-4fca-b9f2-eddf804367b7")
 		)
@@ -8514,6 +9064,28 @@
 		)
 		(property "Description" "Standalone 2-Cell (Li-Ion / Li-Polymer), 2A Boost-Mode Battery Charger With PowerPath, USB BC1.2 Detection, USB On-The-Go Boost (OTG), 4.3..6.2V VBUS, 8.2/8.4/8.7/8.8V charge voltage, 9.2V BATOVP, 1.5MHz, VQFN-24"
 			(at 182.88 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Added to order" "Y"
+			(at 182.88 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Customer PN" "EMG-PWR-018"
+			(at 182.88 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8667,6 +9239,28 @@
 			)
 		)
 		(property "Description" "Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"
+			(at 77.47 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Added to order" "Y"
+			(at 77.47 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Customer PN" "EMG-PWR-010"
 			(at 77.47 143.51 0)
 			(hide yes)
 			(show_name no)

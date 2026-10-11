@@ -212,6 +212,28 @@
 				)
 			)
 		)
+		(property "Added to order" "NA"
+			(at 30.48 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Customer PN" "NA"
+			(at 30.48 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(instances
 			(project "power_v3.3"
 				(path "/432bcdcf-747a-4fa0-b87b-096f44260199"
@@ -288,6 +310,28 @@
 				)
 			)
 		)
+		(property "Added to order" "NA"
+			(at 30.48 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Customer PN" "NA"
+			(at 30.48 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(instances
 			(project "power_v3.3"
 				(path "/432bcdcf-747a-4fa0-b87b-096f44260199"
@@ -354,6 +398,28 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 30.48 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Added to order" "NA"
+			(at 30.48 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Customer PN" "NA"
 			(at 30.48 163.83 0)
 			(hide yes)
 			(show_name no)

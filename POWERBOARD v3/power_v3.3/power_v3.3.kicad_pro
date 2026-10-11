@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.0,
-          "height": 2.0,
-          "width": 2.0
+          "drill": 0.0,
+          "height": 3.4,
+          "width": 1.3
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -584,6 +584,18 @@
           "show": true
         },
         {
+          "group_by": false,
+          "label": "Customer PN",
+          "name": "Customer PN",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Added to order",
+          "name": "Added to order",
+          "show": true
+        },
+        {
           "group_by": true,
           "label": "DNP",
           "name": "${DNP}",
@@ -635,7 +647,7 @@
           "group_by": false,
           "label": "Manufacturer_Part_Number",
           "name": "Manufacturer_Part_Number",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -653,19 +665,19 @@
           "group_by": false,
           "label": "PARTREV",
           "name": "PARTREV",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "STANDARD",
           "name": "STANDARD",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "Sim.Pin",
           "name": "Sim.Pin",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -689,7 +701,7 @@
           "group_by": false,
           "label": "#",
           "name": "${ITEM_NUMBER}",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -708,8 +720,8 @@
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",
-      "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_asc": false,
+      "sort_field": "Datasheet"
     },
     "bus_aliases": {},
     "connection_grid_size": 50.0,
@@ -760,7 +772,7 @@
         "uuid": "432bcdcf-747a-4fa0-b87b-096f44260199"
       }
     ],
-    "used_designators": "J1-3,U1-4,LDO5V1,C1-18,R1-18,BZ1,Cin1,H1-4,IC1-3,BUCK1IN1,#FLG1-5,TP10,5.3V1-2,L1-2,5V1-2,3.6V3,S1-2,CHAR/BATT1,GND1-2,Cout1,BAT1,#PWR1-2,#PWR10-30,D1-7,F1,SYS1-2",
+    "used_designators": "J1-3,U1-4,LDO5V1,C1-18,BZ1,R1-18,Cin1,H1-4,IC1-3,BUCK1IN1,#FLG1-5,TP10,5.3V1-2,L1-2,5V1-2,3.6V3,S1-2,CHAR/BATT1,GND1-2,Cout1,BAT1,#PWR1-2,#PWR10-30,D1-7,F1,SYS1-2",
     "variants": []
   },
   "sheets": [
