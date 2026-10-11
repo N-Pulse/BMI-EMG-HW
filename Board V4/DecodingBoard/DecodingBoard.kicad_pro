@@ -897,7 +897,7 @@
         "uuid": "b438bce8-ca67-4245-91ae-f4475acc63f6"
       }
     ],
-    "used_designators": "#FLG1-5,CBUS1,IC1-4,H1-6,R1-19,L1-4,J1-8,J11,U1-5,SW1-2,C1-32,FL1,XTAL1,ANT1,D1-2,D6,#PWR1-55,TP1",
+    "used_designators": "#FLG1-5,CBUS1,IC1-4,R1-19,H1-6,L1-4,J1-8,J11,U1-5,SW1-2,C1-32,FL1,XTAL1,ANT1,D1-2,D6,#PWR1-55,TP1",
     "variants": []
   },
   "sheets": [

@@ -2239,7 +2239,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "52863e0b-3f9b-44c0-bf7c-f4585b5e6e24")
-		(property "Reference" "U5"
+		(property "Reference" "U3"
 			(at 88.9 59.944 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2362,7 +2362,7 @@
 		(instances
 			(project "DecodingBoard"
 				(path "/b438bce8-ca67-4245-91ae-f4475acc63f6/f85c4218-0aef-4639-a0dc-11a66bf7298f"
-					(reference "U5")
+					(reference "U3")
 					(unit 1)
 				)
 			)
