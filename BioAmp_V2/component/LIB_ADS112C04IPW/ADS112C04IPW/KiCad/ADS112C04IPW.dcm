@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP ADS112C04IPW
-D Analog to Digital Converters - ADC 16-Bit 2kSPS 4-Ch Low-Power Delta-Sigma ADC With PGA, Voltage Reference, IDACs, and I2C Interface 16-TSSOP -40 to 125
-K
-F https://datasheet.datasheetarchive.com/originals/distributors/DKDS41/DSANUWW0029291.pdf
-$ENDCMP
-#
-#End Doc Library
