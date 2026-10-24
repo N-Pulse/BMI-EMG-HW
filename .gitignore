@@ -14,6 +14,7 @@ _restore_backup_*/
 /BioAmp_V2/*.gbr
 /BioAmp_V2/*.gbrjob
 /BioAmp_V2/*.drl
+BioAmp_V2/.history/
 
 # Generated whole-board 3D export
 /BioAmp_V2/BioAmp-EXG-Pill.step

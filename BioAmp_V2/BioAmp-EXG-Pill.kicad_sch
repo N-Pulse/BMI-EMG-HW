@@ -13117,7 +13117,7 @@
 				)
 			)
 		)
-		(property "Value" "1M"
+		(property "Value" "1.5M"
 			(at 119.38 161.29 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13159,7 +13159,7 @@
 				)
 			)
 		)
-		(property "Distributer Link" "https://www.mouser.ch/en/ProductDetail/Bourns/CRT0603-BZ-1004ELF?qs=pxDZlBjcsCiRaiGe6sfQhA%3D%3D"
+		(property "Distributer Link" ""
 			(at 119.38 161.29 90)
 			(hide yes)
 			(show_name no)
@@ -13931,7 +13931,7 @@
 				)
 			)
 		)
-		(property "Value" "22K"
+		(property "Value" "1M"
 			(at 109.22 161.29 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13973,7 +13973,7 @@
 				)
 			)
 		)
-		(property "Distributer Link" "https://www.mouser.ch/en/ProductDetail/YAGEO/RC0603FR-1022KL?qs=EiqXWrxQq61e6RoATMUfKw%3D%3D"
+		(property "Distributer Link" ""
 			(at 109.22 161.29 90)
 			(hide yes)
 			(show_name no)
