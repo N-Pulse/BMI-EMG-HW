@@ -13117,7 +13117,7 @@
 				)
 			)
 		)
-		(property "Value" "1.5M"
+		(property "Value" "1.8M"
 			(at 119.38 161.29 90)
 			(show_name no)
 			(do_not_autoplace no)
