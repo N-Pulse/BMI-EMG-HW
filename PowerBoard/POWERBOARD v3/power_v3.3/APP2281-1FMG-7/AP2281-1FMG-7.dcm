@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP2281-1FMG-7
+D Power Switch ICs - Power Distribution PROGRAM LOAD SWITCH 1.5V-6.0V INTERFACE
+K
+F https://www.diodes.com//assets/Datasheets/AP2280.pdf
+$ENDCMP
+#
+#End Doc Library

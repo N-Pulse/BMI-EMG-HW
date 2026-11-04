@@ -1,0 +1,232 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "432bcdcf-747a-4fa0-b87b-096f44260199")
+	(paper "A4")
+	(lib_symbols)
+	(text_box "FILE HIERARCHY"
+		(exclude_from_sim no)
+		(at 60.96 88.9 0)
+		(size 157.48 44.45)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "c1d2e491-1315-4c36-afcf-bc976d4351a6")
+	)
+	(wire
+		(pts
+			(xy 153.67 107.95) (xy 175.26 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb116907-f26a-4f06-8669-517bc750f062")
+	)
+	(wire
+		(pts
+			(xy 102.87 107.95) (xy 124.46 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5f95853-7a03-4f84-a58d-85e44e130e66")
+	)
+	(sheet
+		(at 71.12 102.87)
+		(size 31.75 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "986d0958-7560-4e54-a011-42cef53cef16")
+		(property "Sheetname" "Battery connection"
+			(at 71.12 102.1584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RECHARGE_v3.2.kicad_sch"
+			(at 71.12 121.2346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SYS" output
+			(at 102.87 107.95 0)
+			(uuid "abf1ca5c-cf5a-40a7-ae95-2b081e3070f4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "power_v3.2"
+				(path "/432bcdcf-747a-4fa0-b87b-096f44260199"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 124.46 104.14)
+		(size 29.21 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "aa882f4c-4ee8-43e2-aae8-b6aeb7feb6bb")
+		(property "Sheetname" "Conversion battery - 5.3V"
+			(at 124.46 103.4284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Conversion battery-5.3V_v3.2.kicad_sch"
+			(at 124.46 122.5046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "output_at_5.3" output
+			(at 153.67 107.95 0)
+			(uuid "81c68c1c-7ae3-4f4f-997f-126edb9a41b6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SYS" input
+			(at 124.46 107.95 180)
+			(uuid "cbe1b43d-4ccd-4432-8842-bd7fb8ee7188")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "power_v3.2"
+				(path "/432bcdcf-747a-4fa0-b87b-096f44260199"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 175.26 102.87)
+		(size 29.21 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "aa89f8c1-35b9-4540-82fe-b26120ec2788")
+		(property "Sheetname" "conversion 5.3 to 5V"
+			(at 175.26 102.1584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "5.3to5V_v3.2.kicad_sch"
+			(at 175.26 122.5046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "input_at_5.3" input
+			(at 175.26 107.95 180)
+			(uuid "4268136a-acd0-455e-b8af-3e0ebbfff837")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "power_v3.2"
+				(path "/432bcdcf-747a-4fa0-b87b-096f44260199"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

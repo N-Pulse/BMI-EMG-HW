@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SMBJ9.0A
+D 1-Line ESD Protection
+K
+F https://www.semtech.com/products/circuit-protection/esd-protection/smbj9.0a
+$ENDCMP
+#
+#End Doc Library
