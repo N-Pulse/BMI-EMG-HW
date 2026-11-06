@@ -1,0 +1,9 @@
+Manufacturer=Würth Elektronik
+PartNumber=74438336010
+PartCategory=Inductor
+PackageCategory=Inductors Chip
+PinCount=2
+Version=5.1
+Released=2016-12-02 13:33:03
+Downloaded=2026-10-07 20:54:56
+3D=Y

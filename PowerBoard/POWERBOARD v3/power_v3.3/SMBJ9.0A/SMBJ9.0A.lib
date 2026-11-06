@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model SMBJ9.0A
+#/20434786/2188703/2.50/2/2/TVS Diode (Uni-directional)
+DEF SMBJ9.0A D 0 30 Y Y 1 F N
+F0 "D" 400 350 50 H V L BNN
+F1 "SMBJ9.0A" 400 250 50 H V L BNN
+F2 "DIOM5436X261N" 400 150 50 H I L BNN
+F3 "https://www.semtech.com/products/circuit-protection/esd-protection/smbj9.0a" 400 50 50 H I L BNN
+F4 "1-Line ESD Protection" 400 -50 50 H I L BNN "Description"
+F5 "2.61" 400 -150 50 H I L BNN "Height"
+F6 "" 400 -250 50 H I L BNN "Mouser Part Number"
+F7 "" 400 -350 50 H I L BNN "Mouser Price/Stock"
+F8 "SEMTECH" 400 -450 50 H I L BNN "Manufacturer_Name"
+F9 "SMBJ9.0A" 400 -550 50 H I L BNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 600 0 200 L 50 50 0 0 P
+P 4 0 1 6 200 0 400 100 400 -100 200 0 N
+P 2 0 1 6 200 -80 240 -100 N
+P 2 0 1 6 200 -80 200 80 N
+P 2 0 1 6 160 100 200 80 N
+ENDDRAW
+ENDDEF
+#
+#End Library

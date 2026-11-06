@@ -1,0 +1,232 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "432bcdcf-747a-4fa0-b87b-096f44260199")
+	(paper "A4")
+	(lib_symbols)
+	(text_box "FILE HIERARCHY"
+		(exclude_from_sim no)
+		(at 60.96 88.9 0)
+		(size 157.48 44.45)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "c1d2e491-1315-4c36-afcf-bc976d4351a6")
+	)
+	(wire
+		(pts
+			(xy 153.67 107.95) (xy 175.26 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb116907-f26a-4f06-8669-517bc750f062")
+	)
+	(wire
+		(pts
+			(xy 102.87 107.95) (xy 124.46 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5f95853-7a03-4f84-a58d-85e44e130e66")
+	)
+	(sheet
+		(at 72.39 101.6)
+		(size 30.48 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "2709d64e-79a1-419e-9538-0ab0637571cb")
+		(property "Sheetname" "Recharge"
+			(at 72.39 100.8884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RECHARGE_v3.1.kicad_sch"
+			(at 72.39 122.5046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SYS" output
+			(at 102.87 107.95 0)
+			(uuid "06c923fc-a063-42a2-a36f-0c16d62d3d7d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "power_v3.1"
+				(path "/432bcdcf-747a-4fa0-b87b-096f44260199"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 124.46 102.87)
+		(size 29.21 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "7f2d4bfb-839a-4d61-b9ae-85b6567a3f49")
+		(property "Sheetname" "battery - 5.3V"
+			(at 124.46 102.1584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Conversion battery-5.3V_v3.1.kicad_sch"
+			(at 124.46 122.5046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "output_at_5.3" output
+			(at 153.67 107.95 0)
+			(uuid "1996aa91-9df2-4076-b9ff-96ee0af6a8c2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SYS" input
+			(at 124.46 107.95 180)
+			(uuid "76022a0e-254c-41b3-bdd8-311f1723c161")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "power_v3.1"
+				(path "/432bcdcf-747a-4fa0-b87b-096f44260199"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 175.26 102.87)
+		(size 26.67 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "b4156894-ad67-4fc7-9c4c-21fb77a553c5")
+		(property "Sheetname" "5.3V to 5V"
+			(at 175.26 102.1584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "5.3to5V_v3.1.kicad_sch"
+			(at 175.26 122.5046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "input_at_5.3" input
+			(at 175.26 107.95 180)
+			(uuid "dacfaa93-4e60-494f-97d7-115f233c1b50")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "power_v3.1"
+				(path "/432bcdcf-747a-4fa0-b87b-096f44260199"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

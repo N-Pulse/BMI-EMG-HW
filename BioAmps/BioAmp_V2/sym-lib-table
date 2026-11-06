@@ -1,0 +1,6 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "MAX1169") (type "KiCad") (uri "${KIPRJMOD}/component/MAX1169") (options "") (descr ""))
+	(lib (name "FPC_Connector") (type "KiCad") (uri "${KIPRJMOD}/component/FPC_Connector") (options "") (descr ""))
+	(lib (name "New_ADS112C04") (type "KiCad") (uri "${KIPRJMOD}/component/LIB_ADS112C04IPW/ADS112C04IPW/KiCad/ADS112C04IPW.kicad_sym") (options "") (descr ""))
+)

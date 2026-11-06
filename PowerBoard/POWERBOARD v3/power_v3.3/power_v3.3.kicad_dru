@@ -1,0 +1,10 @@
+(version 1)
+   (rule "J2 locating pegs"
+     (constraint hole_clearance (min 0.15mm))
+     (condition "A.memberOfFootprint('J2') || B.memberOfFootprint('J2')"))
+(rule "C2 pads"
+  (constraint clearance (min 0.15mm))
+  (condition "A.memberOfFootprint('C2') && B.memberOfFootprint('C2')"))
+(rule "C13 pads"
+  (constraint clearance (min 0.15mm))
+  (condition "A.memberOfFootprint('C13') && B.memberOfFootprint('C13')"))

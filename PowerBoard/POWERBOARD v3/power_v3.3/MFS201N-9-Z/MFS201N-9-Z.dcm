@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MFS201N-9-Z
+D Slide Switches DPDT thru-hole terminals, ON - ON function, 5.0mm long top actuator
+K
+F https://www.nidec-copal-electronics.com/e/catalog/switch/mfs.pdf
+$ENDCMP
+#
+#End Doc Library

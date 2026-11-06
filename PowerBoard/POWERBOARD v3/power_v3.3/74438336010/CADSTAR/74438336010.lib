@@ -1,0 +1,16 @@
+.74438336010 :1 ;WE-MAPI SMT Power Inductor Size 3020; L = 1 H +/-20%; IR = 6.15 A; Isat = 6.5 A; RDCmax = 32 m
+INDC3030X200N
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN 74438336010
+~!Mouser Part Number (710-74438336010)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/74438336010?qs=iC14BvcgY%2F2UNRD3pEjYYg%3D%3D)
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (74438336010)
+~!Link Datasheet (https://www.we-online.com/catalog/datasheet/74438336010.pdf)
+~!Height (2mm)
+~!3D_Model (74438336010)
+"74438336010"
+1.1!U 2.1!U 

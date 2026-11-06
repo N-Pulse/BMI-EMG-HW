@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS62160DSGT
+D 3V-17V 1A Step-Down Converters with DCS-Control
+K
+F http://www.ti.com/lit/gpn/TPS62160
+$ENDCMP
+#
+#End Doc Library

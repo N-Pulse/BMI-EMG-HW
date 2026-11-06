@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX25301AATB_V+T
+D 1A Automotive Low-Noise LDO Linear Regulator
+K
+F https://www.analog.com/MAX25301A/datasheet
+$ENDCMP
+#
+#End Doc Library

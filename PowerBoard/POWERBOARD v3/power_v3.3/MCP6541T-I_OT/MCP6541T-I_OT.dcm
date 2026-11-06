@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP6541T-I_OT
+D Comparator Push-Pull RRIO 1.6V SOT23-5
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-304/55359.pdf
+$ENDCMP
+#
+#End Doc Library

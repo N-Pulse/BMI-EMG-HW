@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '74438336010'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Wurth Elektronik", "74438336010" (!) = "", "INDC3030X200N", "Inductors Chip", "710-74438336010", "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/74438336010?qs=iC14BvcgY%2F2UNRD3pEjYYg%3D%3D", "WE-MAPI SMT Power Inductor Size 3020; L = 1 H +/-20%; IR = 6.15 A; Isat = 6.5 A; RDCmax = 32 m", "https://www.we-online.com/catalog/datasheet/74438336010.pdf", "2 mm"
+END_PART
+
+END.

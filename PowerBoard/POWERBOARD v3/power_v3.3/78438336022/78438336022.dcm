@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 78438336022
+D WE-MAIA SMT Power Inductor Size 3020; L = 2.2 H +/-20%; IRP = 3.6 A; Isat = 5.55 A; RDC = 80 m
+K
+F https://www.we-online.com/catalog/datasheet/78438336022.pdf
+$ENDCMP
+#
+#End Doc Library
