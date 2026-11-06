@@ -1,3 +1,47 @@
+<<<<<<< HEAD
+=======
+# macOS
+.DS_Store
+
+# KiCad local settings, locks, caches and backups
+*.kicad_prl
+*.lck
+fp-info-cache
+*-backups/
+_restore_backup_*/
+
+# BioAmp V2 manufacturing outputs
+BioAmps/BioAmp_V2/Order/
+BioAmps/BioAmp_V2/BioAmp_Order_Gerber.zip
+BioAmps/BioAmp_V2/*.gbr
+BioAmps/BioAmp_V2/*.gbrjob
+BioAmps/BioAmp_V2/*.drl
+BioAmps/BioAmp_V2/.history/
+
+# Generated whole-board 3D export
+BioAmps/BioAmp_V2/BioAmp-EXG-Pill.step
+
+# Dependencies available elsewhere
+BioAmps/BioAmp_V2/component/
+BioAmps/BioAmp_V2/packages3D/
+BioAmps/BioAmp_V1/component/
+BioAmps/BioAmp_V1/packages3D/
+BioAmps/BioAmp_V2/.history/
+
+
+>>>>>>> origin/main
+
+PowerBoard/POWERBOARD v3/power_v3.3/.history/
+
+.DS_Store
+<<<<<<< HEAD
+.history/
+=======
+.history/
+
+
+>>>>>>> origin/main
+
 
 .DS_Store
 *.lck
