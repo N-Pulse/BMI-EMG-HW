@@ -41,3 +41,11 @@ PowerBoard/POWERBOARD v3/power_v3.3/.history/
 
 
 >>>>>>> origin/main
+
+
+.DS_Store
+*.lck
+
+.*history
+
+DecodingBoard/Board V4/DecodingBoard/~DecodingBoard.kicad_pro.lck
